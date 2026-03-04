@@ -1,0 +1,34 @@
+{
+  "title": "Nuestros Servicios",
+  "text": "Los productos y servicios que la Empresa ofrece se enmarcan en",
+  "section": [
+    {
+      "title": "Diseño y Construcción de toda clase de proyectos",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Remodelaciones, Mantenimientos y Adecuaciones de edificios privados e institucionales",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Estructuras en concreto y metálicas para edificaciones",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Obras civiles",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Servicios de consultoría en Diseño",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Asesoría Técnica Integral de proyectos",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Diseño y construcción de edificaciones institucionales",
+      "icon": "notes.svg"
+    }
+  ]
+}

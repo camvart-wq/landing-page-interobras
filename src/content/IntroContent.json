@@ -1,0 +1,15 @@
+{
+  "title": "INTER OBRAS GR SAS",
+  "text": "Experiencia en el área de la Arquitectura y la Ingeniería, desarrollando importantes proyectos de Construcción, Remodelación, Mantenimientos y/o Adecuación.",
+  "button": [
+    {
+      "title": "Explorar",
+      "botonRedirect":"about"
+    },
+    {
+      "title": "Experiencia",
+      "color": "#fff",
+      "botonRedirect":"product-1"
+    }
+  ]
+}
