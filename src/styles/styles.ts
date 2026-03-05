@@ -116,7 +116,7 @@ export const Styles = createGlobalStyle`
         background-position: center bottom;
         background-size: auto;
         border-radius: 8px;
-        padding: 4rem;
+        padding: 0.8rem;
         margin: 0;
         width: 100vw;
         position: relative;
@@ -124,6 +124,8 @@ export const Styles = createGlobalStyle`
         right: 50%;
         margin-left: -50vw;
         margin-right: -50vw;
+        will-change: transform;
+        transform: translateZ(0);
     }
 
     #intro > div {
